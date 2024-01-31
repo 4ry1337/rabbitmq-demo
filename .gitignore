@@ -1,0 +1,8 @@
+producer/node_modules
+consumer/node_modules
+producer/build
+consumer/build
+producer/package-lock.json
+consumer/package-lock.json
+
+.env
